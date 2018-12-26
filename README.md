@@ -23,7 +23,7 @@ Le resultat du map reduce est un tableau sous forme de tableau en page web.
 
 ### Exercices 2 :
 
-Le programme génère un fichier texte (à la racine) pour le resultat de la simulation, a chaque ligne on obtient les valeurs des entités sur le plateau, ciblé par leur Id respectif, tout les '#' on change de tour et chaque fois qu'un Id disparait c'est que l'entité est morte. 
+Le programme génère un fichier texte (à la racine) pour le resultat de la simulation, a chaque ligne on obtient les valeurs des entités sur le plateau, ciblé par leur Id respectif, tout les '#' on change de tour et chaque fois qu'un Id disparait c'est que l'entité est morte. Pour infomation elles sont placé aléatoirement dans une zone bien définie.
 
 On peut visualiser la simulation sur la page html dans le dossier 'Visualisation'. 
 
