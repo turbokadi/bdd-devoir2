@@ -1,4 +1,5 @@
-# BDD Répartit Devoir 2
+# BDD Répartit Devoir 2
+
 ## Groupe :
 - Nicolas Corronel
 - Johan Maurel
@@ -11,3 +12,19 @@
 Voici un petit screen du websocket du master.
 
 ![](./cluster-screen.png)
+
+### Exercices 1 :
+
+Le crawler est en python et produit un fichier JSON.
+
+Le resultat du map reduce est un tableau sous forme de tableau en page web.
+
+![](./map-reduce.png)
+
+### Exercices 2 :
+
+Le programme génère un fichier texte pour le resultat de la simulation, a chaque ligne on obtient les valeurs des entités sur le plateau.  
+
+##### Simulation 1 :
+
+##### Simulation 2 :

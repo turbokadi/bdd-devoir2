@@ -47,6 +47,4 @@ object MapReduce extends App {
   val batchView = ctx.parallelize(Bestiary).flatMap(monster => monster.spells.map(spell => (spell, monster.name))).groupByKey()
 
   dumpBatchView(batchView.collect(), "all-monsters-associate-to-spells.html")
-  dumpBatchView(batchView.filter(spell => spell._1.matches(".*(wound|cure).*")).collect(), // Heal keywords
-    "heal-only-monsters-associate-to-spells.html")
 }
