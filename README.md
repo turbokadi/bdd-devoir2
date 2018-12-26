@@ -24,7 +24,6 @@ Le resultat du map reduce est un tableau sous forme de tableau en page web.
 ### Exercices 2 :
 
 Le programme génère un fichier texte pour le resultat de la simulation, a chaque ligne on obtient les valeurs des entités sur le plateau.  
-
-##### Simulation 1 :
-
 ##### Simulation 2 :
+
+![Alt Text](https://github.com/J4BB3R/bdd-devoir2/blob/master/Visualisation/simu2.gif)
